@@ -23,17 +23,130 @@ e.g. your QGIS profile folder should be in your user AppData folder i.e.  C:\Use
 - Open QGIS
 - Navigate to **Layers>>Data Source Manager**
 
-![image2](media/image2.png)
+   ![image2](media/image2.png)
 
+ - Click on ArcGIS REST Server in the left hand panel and then click New
+
+   ![image3](media/image3.png)  
+  
 - Fill out the following parameters
+  
 **Name:** UNEP-WCMC portal
+  
 **URL:** https://data-gis.unep-wcmc.org/server/rest/services/
+
 **Community endpoint URL:** https://data-gis.unep-wcmc.org/portal/sharing/rest/community/
+
 **Content endpoint URL:** https://data-gis.unep-wcmc.org/portal/sharing/rest/content/
+
 - In the new window enter the following parameter
+  
 **Name:** UNEP-WCMC portal
+
 **Resource:** https://data-gis.unep-wcmc.org/portal/sharing/rest/
+
 - In the box underneath resource pick **Oauth2 authentication**
-- In the row labelled grant flow Click the blue down arrow button and navigate to the gis profile folder where you placed the authentication file and select the file.
+  
+- In the row labelled grant flow Click the blue down arrow button
+
+  ![image4](media/image4.png)
+  
+- Navigate to the gis profile folder where you placed the authentication file and select the file.  
 i.e. C:\Users\Corinnar\AppData\Roaming\QGIS\QGIS3\profiles\default\QGIS_oauth2_UNEP_WCMC.json
+
+  ![image5](media/image5.png)
+
+- Click save
+  
+- Under Authentications click you should now see UNEP-WCMC Portal (Oauth2)
+
+    ![image6](media/image6.png)
+
+- Click ok to close
+- This will take you back to the Data Source Manager Window.
+- Click Connect
+
+   ![image7](media/image7.png)
+  
+- You should see two items (Groups and Services) under UNEP-WCMC portal
+
+   ![image8](media/image8.png)
+
+- Click on the  > arrow to expand Services
+- This will take you to the UNEP-WCMC portal login page
+
+   ![image9](media/image9.png)
+
+- Once logged it you should get the message saying the authentication has worked and you can go back to QGIS.
+
+   ![image10](media/image10.png)
+
+- you should not see this
+
+    ![image11](media/image11.png)
+
+- If connection has worked see all the data layers in the portal which you can add directly into your QGIS project in the same way as shapefiles, geodatabase files and geotiff raster layers.
+
+    ![image10](media/image10.png)
+
+4. Connect QGIS to portal using oauth2 token
+   *(you will only need this if step 3 failed)*
+
+   *(original source: based on https://toolkit.data.wa.gov.au/hc/en-gb/articles/360001044975-How-to-Add-an-ArcGIS-Server-Feature-Service-Esri-Token-Authentication-in-QGIS#connecting-to-a-service-using-token-authentication)*
+
+   - If the Oauth2 did not work this is an alternative method. Let Corinna or Osgur know if you get an error still and can’t connect using Oauth2 as it is useful to know during this testing phase when and why iot is not working. Then try the steps below. 
+
+ - You can generate a token which you can specify will last from 1 hour to 2 weeks. After the specified time you will need to repeat this process to generate a new token
+- Navigate to this website https://data-gis.unep-wcmc.org/portal/sharing/rest/oauth2
+- click on generate token
+
+    ![image11](media/image11.png)
+
+- Login with your portal login
+- Click IP Address of this request’s origin
+- And click Generate Token
+
+    ![image12](media/image12.png)
+
+- The token will appear underneath
+
+    ![image13](media/image13.png)  
+
+- Copy the token and return to QGIS
+- Go back to the Data Source Manager and this time edit the UNEP-WCMC Portal connection that you already tried to set up
+
+    ![image14](media/image14.png)
+
+- Click on the Green plus button
+
+    ![image15](media/image15.png)
+
+- A new Authentication window opens. 
+- Give the new authentication a name e.g. UNEP-WCMC portal token
+- Change the dropdown from Basic Authentication to ESRI token
+- Paste your token in the box and click Save
+
+    ![image16](media/image16.png)
+
+- Your authentication should now be set to the ESRI Token – click ok
+
+    ![image17](media/image17.png)
+
+- You should now be back at the Data Source Manager.
+- Click Connect
+- You should see the same as you did when you tried to connect via the Oauth2 method
+
+    ![image18](media/image18.png)
+  
+- You should see two items (Groups and Services) under UNEP-WCMC portal
+
+    ![image19(media/image19.png)
+  
+- Click on the  > arrow to expand Services
+- You should see all the data layers appear!!
+
+    ![image20(media/image20.png)
+
+- Let Corinna or Osgur know if you get an error still and can’t connect
+
 

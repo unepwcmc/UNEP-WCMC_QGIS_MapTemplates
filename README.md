@@ -31,19 +31,19 @@ e.g. your QGIS profile folder should be in your user AppData folder i.e.  C:\Use
   
 - Fill out the following parameters
   
-**Name:** UNEP-WCMC portal
+  **Name:** UNEP-WCMC portal
   
-**URL:** https://data-gis.unep-wcmc.org/server/rest/services/
+  **URL:** https://data-gis.unep-wcmc.org/server/rest/services/
 
-**Community endpoint URL:** https://data-gis.unep-wcmc.org/portal/sharing/rest/community/
+  **Community endpoint URL:** https://data-gis.unep-wcmc.org/portal/sharing/rest/community/
 
-**Content endpoint URL:** https://data-gis.unep-wcmc.org/portal/sharing/rest/content/
+  **Content endpoint URL:** https://data-gis.unep-wcmc.org/portal/sharing/rest/content/
 
 - In the new window enter the following parameter
   
-**Name:** UNEP-WCMC portal
+  **Name:** UNEP-WCMC portal
 
-**Resource:** https://data-gis.unep-wcmc.org/portal/sharing/rest/
+  **Resource:** https://data-gis.unep-wcmc.org/portal/sharing/rest/
 
 - In the box underneath resource pick **Oauth2 authentication**
   
@@ -83,11 +83,11 @@ i.e. C:\Users\Corinnar\AppData\Roaming\QGIS\QGIS3\profiles\default\QGIS_oauth2_U
 
 - you should not see this
 
-    ![image11](media/image11.png)
+  ![image11](media/image11.png)
 
 - If connection has worked see all the data layers in the portal which you can add directly into your QGIS project in the same way as shapefiles, geodatabase files and geotiff raster layers.
 
-    ![image10](media/image10.png)
+    ![image11](media/image11.png)
 
 4. Connect QGIS to portal using oauth2 token
    *(you will only need this if step 3 failed)*
@@ -100,7 +100,7 @@ i.e. C:\Users\Corinnar\AppData\Roaming\QGIS\QGIS3\profiles\default\QGIS_oauth2_U
 - Navigate to this website https://data-gis.unep-wcmc.org/portal/sharing/rest/oauth2
 - click on generate token
 
-    ![image11](media/image11.png)
+    ![image12](media/image12.png)
 
 - Login with your portal login
 - Click IP Address of this request’s origin

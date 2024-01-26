@@ -78,16 +78,16 @@ i.e. C:\Users\Corinnar\AppData\Roaming\QGIS\QGIS3\profiles\default\QGIS_oauth2_U
    ![image9](media/image9.png)
 
 - Once logged it you should get the message saying the authentication has worked and you can go back to QGIS.
-
+  
    ![image10](media/image10.png)
-
+  
 - you should not see this
-
+  
   ![image11](media/image11.png)
-
+  
 - If connection has worked see all the data layers in the portal which you can add directly into your QGIS project in the same way as shapefiles, geodatabase files and geotiff raster layers.
 
-    ![image11](media/image11.png)
+    ![image12](media/image12.png)
 
 4. Connect QGIS to portal using oauth2 token
    *(you will only need this if step 3 failed)*
@@ -100,37 +100,37 @@ i.e. C:\Users\Corinnar\AppData\Roaming\QGIS\QGIS3\profiles\default\QGIS_oauth2_U
 - Navigate to this website https://data-gis.unep-wcmc.org/portal/sharing/rest/oauth2
 - click on generate token
 
-    ![image12](media/image12.png)
+    ![image13](media/image13.png)
 
 - Login with your portal login
 - Click IP Address of this request’s origin
 - And click Generate Token
 
-    ![image12](media/image12.png)
+    ![image14](media/image14.png)
 
 - The token will appear underneath
 
-    ![image13](media/image13.png)  
+    ![image15](media/image15.png)  
 
 - Copy the token and return to QGIS
 - Go back to the Data Source Manager and this time edit the UNEP-WCMC Portal connection that you already tried to set up
 
-    ![image14](media/image14.png)
+    ![image16](media/image16.png)
 
 - Click on the Green plus button
 
-    ![image15](media/image15.png)
+    ![image17](media/image17.png)
 
 - A new Authentication window opens. 
 - Give the new authentication a name e.g. UNEP-WCMC portal token
 - Change the dropdown from Basic Authentication to ESRI token
 - Paste your token in the box and click Save
 
-    ![image16](media/image16.png)
+    ![image18](media/image18.png)
 
 - Your authentication should now be set to the ESRI Token – click ok
 
-    ![image17](media/image17.png)
+    ![image19](media/image19.png)
 
 - You should now be back at the Data Source Manager.
 - Click Connect

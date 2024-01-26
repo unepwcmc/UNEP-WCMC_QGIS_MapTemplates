@@ -10,3 +10,7 @@ Connect QGIS to portal using oauth2 authentication
 *(Note: if you can’t see the folder you may need to tell your windows explorer to be able to see hidden folder by going to View >>>show hidden items)*
 e.g. your QGIS profile folder should be in your user AppData folder i.e.  C:\Users\Corinnar\AppData\Roaming\QGIS\QGIS3\profiles\default
 
+|image1|
+
+.. |image1| image:: media/image1.png
+:width: 300

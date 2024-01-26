@@ -1,0 +1,26 @@
+{
+    "accessMethod": 0,
+    "apiKey": "",
+    "clientId": "whNUKlLdUQPhZoMg",
+    "clientSecret": "91570d47c8ae4e9bbe25cf4d11414a17",
+    "configType": 1,
+    "customHeader": "",
+    "description": "",
+    "grantFlow": 0,
+    "id": "706t5rb",
+    "name": "UNEP-WCMC Portal",
+    "objectName": "",
+    "password": "",
+    "persistToken": false,
+    "queryPairs": {
+    },
+    "redirectPort": 7070,
+    "redirectUrl": "",
+    "refreshTokenUrl": "",
+    "requestTimeout": 30,
+    "requestUrl": "https://data-gis.unep-wcmc.org/portal/sharing/rest/oauth2/authorize",
+    "scope": "",
+    "tokenUrl": "https://data-gis.unep-wcmc.org/portal/sharing/rest/oauth2/token",
+    "username": "",
+    "version": 1
+}

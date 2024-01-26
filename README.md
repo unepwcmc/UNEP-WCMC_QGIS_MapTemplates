@@ -136,16 +136,16 @@ i.e. C:\Users\Corinnar\AppData\Roaming\QGIS\QGIS3\profiles\default\QGIS_oauth2_U
 - Click Connect
 - You should see the same as you did when you tried to connect via the Oauth2 method
 
-    ![image18](media/image18.png)
+    ![image6](media/image6.png)
   
 - You should see two items (Groups and Services) under UNEP-WCMC portal
 
-    ![image19(media/image19.png)
+    ![image8](media/image8.png)
   
 - Click on the  > arrow to expand Services
 - You should see all the data layers appear!!
 
-    ![image20(media/image20.png)
+    ![image12](media/image12.png)
 
 - Let Corinna or Osgur know if you get an error still and can’t connect
 

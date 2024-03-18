@@ -1,0 +1,444 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="2">
+  <symbols>
+    <symbol is_animated="0" name="#117733 Evergreen needleleaf forest (Tol_groundcover)" alpha="1" clip_to_extent="1" force_rhr="0" tags="Colourblind safe palette: Tol_groundcover" type="fill" frame_rate="10">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option name="name" type="QString" value=""/>
+          <Option name="properties"/>
+          <Option name="type" type="QString" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" pass="0" enabled="1" class="SimpleFill">
+        <Option type="Map">
+          <Option name="border_width_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="color" type="QString" value="17,119,51,255"/>
+          <Option name="joinstyle" type="QString" value="bevel"/>
+          <Option name="offset" type="QString" value="0,0"/>
+          <Option name="offset_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="offset_unit" type="QString" value="MM"/>
+          <Option name="outline_color" type="QString" value="247,247,247,255"/>
+          <Option name="outline_style" type="QString" value="solid"/>
+          <Option name="outline_width" type="QString" value="0.26"/>
+          <Option name="outline_width_unit" type="QString" value="MM"/>
+          <Option name="style" type="QString" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol is_animated="0" name="#44AA66 Deciduos needleleaf forest (Tol_groundcover)" alpha="1" clip_to_extent="1" force_rhr="0" tags="Colourblind safe palette: Tol_groundcover" type="fill" frame_rate="10">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option name="name" type="QString" value=""/>
+          <Option name="properties"/>
+          <Option name="type" type="QString" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" pass="0" enabled="1" class="SimpleFill">
+        <Option type="Map">
+          <Option name="border_width_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="color" type="QString" value="68,170,102,255"/>
+          <Option name="joinstyle" type="QString" value="bevel"/>
+          <Option name="offset" type="QString" value="0,0"/>
+          <Option name="offset_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="offset_unit" type="QString" value="MM"/>
+          <Option name="outline_color" type="QString" value="247,247,247,255"/>
+          <Option name="outline_style" type="QString" value="solid"/>
+          <Option name="outline_width" type="QString" value="0.26"/>
+          <Option name="outline_width_unit" type="QString" value="MM"/>
+          <Option name="style" type="QString" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol is_animated="0" name="#44AA88 Cropland (Tol_groundcover)" alpha="1" clip_to_extent="1" force_rhr="0" tags="Colourblind safe palette: Tol_groundcover" type="fill" frame_rate="10">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option name="name" type="QString" value=""/>
+          <Option name="properties"/>
+          <Option name="type" type="QString" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" pass="0" enabled="1" class="SimpleFill">
+        <Option type="Map">
+          <Option name="border_width_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="color" type="QString" value="68,170,136,255"/>
+          <Option name="joinstyle" type="QString" value="bevel"/>
+          <Option name="offset" type="QString" value="0,0"/>
+          <Option name="offset_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="offset_unit" type="QString" value="MM"/>
+          <Option name="outline_color" type="QString" value="247,247,247,255"/>
+          <Option name="outline_style" type="QString" value="solid"/>
+          <Option name="outline_width" type="QString" value="0.26"/>
+          <Option name="outline_width_unit" type="QString" value="MM"/>
+          <Option name="style" type="QString" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol is_animated="0" name="#5566AA Water (Tol_groundcover)" alpha="1" clip_to_extent="1" force_rhr="0" tags="Colourblind safe palette: Tol_groundcover" type="fill" frame_rate="10">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option name="name" type="QString" value=""/>
+          <Option name="properties"/>
+          <Option name="type" type="QString" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" pass="0" enabled="1" class="SimpleFill">
+        <Option type="Map">
+          <Option name="border_width_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="color" type="QString" value="85,102,170,255"/>
+          <Option name="joinstyle" type="QString" value="bevel"/>
+          <Option name="offset" type="QString" value="0,0"/>
+          <Option name="offset_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="offset_unit" type="QString" value="MM"/>
+          <Option name="outline_color" type="QString" value="247,247,247,255"/>
+          <Option name="outline_style" type="QString" value="solid"/>
+          <Option name="outline_width" type="QString" value="0.26"/>
+          <Option name="outline_width_unit" type="QString" value="MM"/>
+          <Option name="style" type="QString" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol is_animated="0" name="#558877 Woodland (Tol_groundcover)" alpha="1" clip_to_extent="1" force_rhr="0" tags="Colourblind safe palette: Tol_groundcover" type="fill" frame_rate="10">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option name="name" type="QString" value=""/>
+          <Option name="properties"/>
+          <Option name="type" type="QString" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" pass="0" enabled="1" class="SimpleFill">
+        <Option type="Map">
+          <Option name="border_width_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="color" type="QString" value="85,136,119,255"/>
+          <Option name="joinstyle" type="QString" value="bevel"/>
+          <Option name="offset" type="QString" value="0,0"/>
+          <Option name="offset_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="offset_unit" type="QString" value="MM"/>
+          <Option name="outline_color" type="QString" value="247,247,247,255"/>
+          <Option name="outline_style" type="QString" value="solid"/>
+          <Option name="outline_width" type="QString" value="0.26"/>
+          <Option name="outline_width_unit" type="QString" value="MM"/>
+          <Option name="style" type="QString" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol is_animated="0" name="#55AA22 Mixed forest (Tol_groundcover)" alpha="1" clip_to_extent="1" force_rhr="0" tags="Colourblind safe palette: Tol_groundcover" type="fill" frame_rate="10">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option name="name" type="QString" value=""/>
+          <Option name="properties"/>
+          <Option name="type" type="QString" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" pass="0" enabled="1" class="SimpleFill">
+        <Option type="Map">
+          <Option name="border_width_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="color" type="QString" value="85,170,34,255"/>
+          <Option name="joinstyle" type="QString" value="bevel"/>
+          <Option name="offset" type="QString" value="0,0"/>
+          <Option name="offset_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="offset_unit" type="QString" value="MM"/>
+          <Option name="outline_color" type="QString" value="247,247,247,255"/>
+          <Option name="outline_style" type="QString" value="solid"/>
+          <Option name="outline_width" type="QString" value="0.26"/>
+          <Option name="outline_width_unit" type="QString" value="MM"/>
+          <Option name="style" type="QString" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol is_animated="0" name="#668822 Evergreen broadleaf forest (Tol_groundcover)" alpha="1" clip_to_extent="1" force_rhr="0" tags="Colourblind safe palette: Tol_groundcover" type="fill" frame_rate="10">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option name="name" type="QString" value=""/>
+          <Option name="properties"/>
+          <Option name="type" type="QString" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" pass="0" enabled="1" class="SimpleFill">
+        <Option type="Map">
+          <Option name="border_width_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="color" type="QString" value="102,136,34,255"/>
+          <Option name="joinstyle" type="QString" value="bevel"/>
+          <Option name="offset" type="QString" value="0,0"/>
+          <Option name="offset_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="offset_unit" type="QString" value="MM"/>
+          <Option name="outline_color" type="QString" value="247,247,247,255"/>
+          <Option name="outline_style" type="QString" value="solid"/>
+          <Option name="outline_width" type="QString" value="0.26"/>
+          <Option name="outline_width_unit" type="QString" value="MM"/>
+          <Option name="style" type="QString" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol is_animated="0" name="#88BBAA Wooded grassland (Tol_groundcover)" alpha="1" clip_to_extent="1" force_rhr="0" tags="Colourblind safe palette: Tol_groundcover" type="fill" frame_rate="10">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option name="name" type="QString" value=""/>
+          <Option name="properties"/>
+          <Option name="type" type="QString" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" pass="0" enabled="1" class="SimpleFill">
+        <Option type="Map">
+          <Option name="border_width_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="color" type="QString" value="136,187,170,255"/>
+          <Option name="joinstyle" type="QString" value="bevel"/>
+          <Option name="offset" type="QString" value="0,0"/>
+          <Option name="offset_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="offset_unit" type="QString" value="MM"/>
+          <Option name="outline_color" type="QString" value="247,247,247,255"/>
+          <Option name="outline_style" type="QString" value="solid"/>
+          <Option name="outline_width" type="QString" value="0.26"/>
+          <Option name="outline_width_unit" type="QString" value="MM"/>
+          <Option name="style" type="QString" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol is_animated="0" name="#99BB55 Deciduous broadleaf forest (Tol_groundcover)" alpha="1" clip_to_extent="1" force_rhr="0" tags="Colourblind safe palette: Tol_groundcover" type="fill" frame_rate="10">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option name="name" type="QString" value=""/>
+          <Option name="properties"/>
+          <Option name="type" type="QString" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" pass="0" enabled="1" class="SimpleFill">
+        <Option type="Map">
+          <Option name="border_width_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="color" type="QString" value="153,187,85,255"/>
+          <Option name="joinstyle" type="QString" value="bevel"/>
+          <Option name="offset" type="QString" value="0,0"/>
+          <Option name="offset_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="offset_unit" type="QString" value="MM"/>
+          <Option name="outline_color" type="QString" value="247,247,247,255"/>
+          <Option name="outline_style" type="QString" value="solid"/>
+          <Option name="outline_width" type="QString" value="0.26"/>
+          <Option name="outline_width_unit" type="QString" value="MM"/>
+          <Option name="style" type="QString" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol is_animated="0" name="#AADDCC Grassland (Tol_groundcover)" alpha="1" clip_to_extent="1" force_rhr="0" tags="Colourblind safe palette: Tol_groundcover" type="fill" frame_rate="10">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option name="name" type="QString" value=""/>
+          <Option name="properties"/>
+          <Option name="type" type="QString" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" pass="0" enabled="1" class="SimpleFill">
+        <Option type="Map">
+          <Option name="border_width_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="color" type="QString" value="170,221,204,255"/>
+          <Option name="joinstyle" type="QString" value="bevel"/>
+          <Option name="offset" type="QString" value="0,0"/>
+          <Option name="offset_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="offset_unit" type="QString" value="MM"/>
+          <Option name="outline_color" type="QString" value="247,247,247,255"/>
+          <Option name="outline_style" type="QString" value="solid"/>
+          <Option name="outline_width" type="QString" value="0.26"/>
+          <Option name="outline_width_unit" type="QString" value="MM"/>
+          <Option name="style" type="QString" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol is_animated="0" name="#BB0011 Urban and built up (Tol_groundcover)" alpha="1" clip_to_extent="1" force_rhr="0" tags="Colourblind safe palette: Tol_groundcover" type="fill" frame_rate="10">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option name="name" type="QString" value=""/>
+          <Option name="properties"/>
+          <Option name="type" type="QString" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" pass="0" enabled="1" class="SimpleFill">
+        <Option type="Map">
+          <Option name="border_width_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="color" type="QString" value="187,0,17,255"/>
+          <Option name="joinstyle" type="QString" value="bevel"/>
+          <Option name="offset" type="QString" value="0,0"/>
+          <Option name="offset_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="offset_unit" type="QString" value="MM"/>
+          <Option name="outline_color" type="QString" value="247,247,247,255"/>
+          <Option name="outline_style" type="QString" value="solid"/>
+          <Option name="outline_width" type="QString" value="0.26"/>
+          <Option name="outline_width_unit" type="QString" value="MM"/>
+          <Option name="style" type="QString" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol is_animated="0" name="#DDCC66 Closed shrubland (Tol_groundcover)" alpha="1" clip_to_extent="1" force_rhr="0" tags="Colourblind safe palette: Tol_groundcover" type="fill" frame_rate="10">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option name="name" type="QString" value=""/>
+          <Option name="properties"/>
+          <Option name="type" type="QString" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" pass="0" enabled="1" class="SimpleFill">
+        <Option type="Map">
+          <Option name="border_width_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="color" type="QString" value="221,204,102,255"/>
+          <Option name="joinstyle" type="QString" value="bevel"/>
+          <Option name="offset" type="QString" value="0,0"/>
+          <Option name="offset_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="offset_unit" type="QString" value="MM"/>
+          <Option name="outline_color" type="QString" value="247,247,247,255"/>
+          <Option name="outline_style" type="QString" value="solid"/>
+          <Option name="outline_width" type="QString" value="0.26"/>
+          <Option name="outline_width_unit" type="QString" value="MM"/>
+          <Option name="style" type="QString" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol is_animated="0" name="#FFDD44 Open Shrubland (Tol_groundcover)" alpha="1" clip_to_extent="1" force_rhr="0" tags="Colourblind safe palette: Tol_groundcover" type="fill" frame_rate="10">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option name="name" type="QString" value=""/>
+          <Option name="properties"/>
+          <Option name="type" type="QString" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" pass="0" enabled="1" class="SimpleFill">
+        <Option type="Map">
+          <Option name="border_width_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="color" type="QString" value="255,221,68,255"/>
+          <Option name="joinstyle" type="QString" value="bevel"/>
+          <Option name="offset" type="QString" value="0,0"/>
+          <Option name="offset_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="offset_unit" type="QString" value="MM"/>
+          <Option name="outline_color" type="QString" value="247,247,247,255"/>
+          <Option name="outline_style" type="QString" value="solid"/>
+          <Option name="outline_width" type="QString" value="0.26"/>
+          <Option name="outline_width_unit" type="QString" value="MM"/>
+          <Option name="style" type="QString" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol is_animated="0" name="#FFEE88 Bare ground (Tol_groundcover)" alpha="1" clip_to_extent="1" force_rhr="0" tags="Colourblind safe palette: Tol_groundcover" type="fill" frame_rate="10">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option name="name" type="QString" value=""/>
+          <Option name="properties"/>
+          <Option name="type" type="QString" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" pass="0" enabled="1" class="SimpleFill">
+        <Option type="Map">
+          <Option name="border_width_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="color" type="QString" value="255,238,136,255"/>
+          <Option name="joinstyle" type="QString" value="bevel"/>
+          <Option name="offset" type="QString" value="0,0"/>
+          <Option name="offset_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+          <Option name="offset_unit" type="QString" value="MM"/>
+          <Option name="outline_color" type="QString" value="247,247,247,255"/>
+          <Option name="outline_style" type="QString" value="solid"/>
+          <Option name="outline_width" type="QString" value="0.26"/>
+          <Option name="outline_width_unit" type="QString" value="MM"/>
+          <Option name="style" type="QString" value="solid"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+  <textformats/>
+  <labelsettings/>
+  <legendpatchshapes/>
+  <symbols3d/>
+</qgis_style>

@@ -39,6 +39,8 @@ e.g. your QGIS profile folder should be in your user AppData folder i.e.  C:\Use
 
   **Content endpoint URL:** https://data-gis.unep-wcmc.org/portal/sharing/rest/content/
 
+- Under 'Choose or create an authentication configuration, click the green '+' button
+
 - In the new window enter the following parameter
   
   **Name:** UNEP-WCMC portal

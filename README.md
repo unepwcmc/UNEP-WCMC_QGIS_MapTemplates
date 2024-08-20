@@ -47,7 +47,10 @@ e.g. your QGIS profile folder should be in your user AppData folder i.e.  C:\Use
 
   **Resource:** https://data-gis.unep-wcmc.org/portal/sharing/rest/
 
-- In the box underneath resource pick **Oauth2 authentication**
+- In the box underneath resource pick **Oauth2 authentication**.
+- If you don't get the option in the dropdown to select Oauth2 authentication you may need to click the green '+' button. Here you may be asked to set a new master password.
+
+ ![image3b](media/image3b.png) 
   
 - In the row labelled grant flow Click the blue down arrow button
 
